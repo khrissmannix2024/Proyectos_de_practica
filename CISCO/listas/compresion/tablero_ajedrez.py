@@ -8,3 +8,5 @@ board[4][2] = "KNIGHT"
 board[3][4] = "PAWN"
 
 print(board)
+
+# Esta es una prueba para ver si el mensaje en gi se aplica individual a este archivo.
