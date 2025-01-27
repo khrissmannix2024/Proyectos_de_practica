@@ -19,3 +19,6 @@ for room_number in range(20):
     if not rooms[2][14][room_number]:
         vacancy += 1
 print(vacancy)
+
+
+# Modificamos esto para comprobar el commit -m
