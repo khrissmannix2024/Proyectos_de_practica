@@ -39,5 +39,3 @@ def day_of_year(year, month, day):
         return None
 
 print(day_of_year(2001, 3, 3))
-
-# Prueba de cambior en git.
